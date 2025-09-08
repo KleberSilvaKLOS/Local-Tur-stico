@@ -26,3 +26,13 @@
 
 ## 🎨 Estrutura do Projeto
 
+local-turistico/
+│
+├── assets/ # Imagens do projeto
+│ ├── busan.jpg
+│ ├── yonggungsa.jpg
+│ └── beomeo-sa.jpg
+│
+├── index.html # Página principal
+├── style.css # Estilos do projeto
+└── README.md # Documentação do projeto
