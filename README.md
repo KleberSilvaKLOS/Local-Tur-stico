@@ -36,3 +36,5 @@ local-turistico/
 ├── index.html # Página principal
 ├── style.css # Estilos do projeto
 └── README.md # Documentação do projeto
+
+Obrigado!
