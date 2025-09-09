@@ -1,9 +1,8 @@
-* {
-  margin: 0 ;
-  padding: 0;
-  box-sizing: border-box;
-  
-  font-family: 'Open Sans', sans-serif;
+* { /* seletor universal para resetar estilos básicos */
+  margin: 0 ; /* remove margens padrão de todos os elementos */
+  padding: 0; /* remove preenchimento padrão de todos os elementos */
+  box-sizing: border-box; /* inclui borda e padding no cálculo do tamanho */
+  font-family: 'Open Sans', sans-serif; /* define fonte padrão para todos os elementos */
 }
 
 .top{
